@@ -19,4 +19,3 @@ def remove_palindroms(spells):
         else:
             res += 1
         ne += 1
-
